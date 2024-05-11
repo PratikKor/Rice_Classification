@@ -1,1 +1,1 @@
-This project employs CNNs to classify different varieties of rice from images. It utilizes TensorFlow and Keras to construct the model, achieving a peak validation accuracy of 98.62% after training. The dataset comprises classes like Arborio and Basmati, with training and testing datasets containing 60,000 and 15,000 files respectively.
+
